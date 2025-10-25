@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added content this hello.txt file
+this hello.txt file
+THIS LINE IS ADDE ON FEATURE A BRANCH 
+>>>>>>> featureA
